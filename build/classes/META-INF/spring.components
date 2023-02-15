@@ -1,0 +1,5 @@
+#
+#Sat Aug 20 16:14:11 EET 2022
+com.store.bll.impl.MenuManagerImpl=org.springframework.stereotype.Component
+com.store.bll.transformers.ProductTransformer=org.springframework.stereotype.Component
+com.store.bll.StoreGetway=org.springframework.stereotype.Component
